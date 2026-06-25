@@ -14,3 +14,6 @@
 .idea/
 *.swp
 *.swo
+
+# PDF examples (local only, not for sync)
+example_pdfs/
